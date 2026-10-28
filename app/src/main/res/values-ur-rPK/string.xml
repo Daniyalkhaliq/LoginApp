@@ -1,0 +1,8 @@
+<resources>
+    <string name="welcome_back">خوش آمدید</string>
+    <string name="login_to_continue">جاری رکھنے کے لیے لاگ ان کریں</string>
+    <string name="username">صارف نام</string>
+    <string name="password">پاس ورڈ</string>
+    <string name="forgot_password">پاس ورڈ بھول گئے؟</string>
+    <string name="log_in">لاگ ان</string>
+</resources>
